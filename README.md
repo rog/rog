@@ -1,4 +1,4 @@
-<img align="right" width="320" height="480" src="https://github.com/rog/rog/blob/master/this-is-fine.gif">
+<img width="100%" src="https://github.com/rog/rog/blob/master/recursive-profile.jpg">
 
 ## Rogelio Alberto
 Full-stack Web Developer
