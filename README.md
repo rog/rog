@@ -4,7 +4,7 @@ Full-stack Web Developer
 ```javascript
 const Rog = {
   code: ['Javascript', 'PHP', 'Python', 'CSS'],
-  frameworks: ['Vue', 'React', 'Laravel', 'Node.js', 'Django'],
+  frameworks: ['Vue', 'React', 'Laravel', 'Node.js'],
   website: 'rogelio.dev',
   twitter: 'rog3r',
   lastfm: 'rog3r',
